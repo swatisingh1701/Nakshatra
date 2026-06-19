@@ -172,30 +172,6 @@ Nakshatra/
 
 ---
 
-## 🎨 Color Palette
-
-| Color       | Hex     |
-| ----------- | ------- |
-| Indigo      | #6366F1 |
-| Purple      | #8B5CF6 |
-| Cyan        | #00D4FF |
-| Dark Blue   | #0A0A1A |
-| Deep Space  | #12122F |
-| Cosmic Navy | #1A1A4E |
-
----
-
-## 📱 Responsive Design
-
-| Device  | Supported |
-| ------- | --------- |
-| Desktop | ✅         |
-| Laptop  | ✅         |
-| Tablet  | ✅         |
-| Mobile  | ✅         |
-
----
-
 ## ⚡ Performance Optimizations
 
 * requestAnimationFrame for smooth animations
@@ -222,8 +198,14 @@ This project helped strengthen understanding of:
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1375e2e6-d53a-4733-9c45-9807c3fec4ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74f7933f-d224-431d-806c-a6b4fe13bfc6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6219c5ac-59a1-4e52-b858-898eab69c232" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee8b50fc-555c-4852-b7d9-1dc50b67f91d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/600552f5-464d-43ec-9e6c-9e5d7691a90c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/480874f8-8a2b-485b-9a8d-cb5c4e80f311" />
 
-
+Above are attached some of the screenshots of the project.
 
 ---
 
