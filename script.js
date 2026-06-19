@@ -44,7 +44,7 @@ const planets = [
     {
         name: "Sun",
         emoji: "☀",
-        image: "https://images.unsplash.com/photo-1614728853913-1e222a800c69?w=300&h=300&fit=crop",
+        image: "https://png.pngtree.com/png-vector/20250813/ourlarge/pngtree-ultra-realistic-photorealistic-sun-image-on-white-background-png-image_17154209.webp",
         distance: "0 AU (Center)",
         description: "The star at the center of our Solar System, providing energy for life on Earth.",
         fact: "The Sun accounts for 99.86% of the Solar System's total mass!"
@@ -52,7 +52,7 @@ const planets = [
     {
         name: "Earth",
         emoji: "🌍",
-        image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=300&h=300&fit=crop",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7WbjQgURKedRu4BK9LOKavfFhconQy3TTNX8ue_4NQ&s=10",
         distance: "1 AU (149.6 million km)",
         description: "The only known planet to harbor life, with water covering 71% of its surface.",
         fact: "Earth is the only planet not named after a Greek or Roman god!"
@@ -60,7 +60,7 @@ const planets = [
     {
         name: "Moon",
         emoji: "🌕",
-        image: "https://images.unsplash.com/photo-1522030299830-16b8d3d849ee?w=300&h=300&fit=crop",
+        image: "https://static.vecteezy.com/system/resources/thumbnails/017/785/725/small/full-moon-isolated-on-transparent-background-png.png",
         distance: "1.003 AU (384,400 km from Earth)",
         description: "Earth's only natural satellite, influencing tides and inspiring countless stories.",
         fact: "The Moon is moving away from Earth at 3.8 cm per year!"
@@ -68,7 +68,7 @@ const planets = [
     {
         name: "Mars",
         emoji: "🔴",
-        image: "https://images.unsplash.com/photo-1615672967592-0d113e856000?w=300&h=300&fit=crop",
+        image: "https://i.pinimg.com/564x/f8/d6/88/f8d688b8b4c45922162154b35763e04c.jpg",
         distance: "1.524 AU (227.9 million km)",
         description: "The Red Planet, with the largest volcano and canyon in the Solar System.",
         fact: "Mars has the tallest mountain in the Solar System - Olympus Mons (22 km high)!"
@@ -76,7 +76,7 @@ const planets = [
     {
         name: "Saturn",
         emoji: "🪐",
-        image: "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=300&h=300&fit=crop",
+        image: "https://png.pngtree.com/png-vector/20240718/ourlarge/pngtree-saturn-planet-with-rings-on-transparent-background-png-image_13144130.png",
         distance: "9.582 AU (1.43 billion km)",
         description: "Famous for its stunning ring system, Saturn is the second-largest planet.",
         fact: "Saturn could float in water because it's mostly gas and has low density!"
@@ -84,15 +84,23 @@ const planets = [
     {
         name: "Jupiter",
         emoji: "♃",
-        image: "https://images.unsplash.com/photo-1614728853914-9b2b5c45e9f9?w=300&h=300&fit=crop",
+        image: "https://static.vecteezy.com/system/resources/thumbnails/021/877/519/small/jupiter-on-a-transparent-background-png.png",
         distance: "5.203 AU (778.5 million km)",
         description: "The largest planet in our Solar System, with a massive storm called the Great Red Spot.",
         fact: "Jupiter has 95 confirmed moons and could fit 1,300 Earths inside!"
     },
     {
+        name: "Uranus",
+        emoji: "🟢",
+        image: "https://static.vecteezy.com/system/resources/thumbnails/065/984/875/small_2x/uranus-planet-space-isolated-on-the-transparent-background-png.png",
+        distance: "19.22 AU (2.87 billion km)",
+        description: "The ice giant with a pale blue-green color, rotating on its side with extreme axial tilt.",
+        fact: "Uranus rotates on its side at 98° angle, making it roll around the Sun like a ball!"
+    },
+    {
         name: "Neptune",
         emoji: "🔵",
-        image: "https://images.unsplash.com/photo-1614728854012-4b0d4ad4f1ce?w=300&h=300&fit=crop",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGE4dXOA-xm0MZDqMmvqMhZ4qyN6Jf0TgTk4_Zo2kByw&s=10",
         distance: "30.05 AU (4.5 billion km)",
         description: "The farthest planet, with the fastest winds in the Solar System up to 2,100 km/h.",
         fact: "One year on Neptune equals 165 Earth years!"
