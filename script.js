@@ -50,6 +50,14 @@ const planets = [
         fact: "The Sun accounts for 99.86% of the Solar System's total mass!"
     },
     {
+        name: "Moon",
+        emoji: "🌕",
+        image: "https://static.vecteezy.com/system/resources/thumbnails/017/785/725/small/full-moon-isolated-on-transparent-background-png.png",
+        distance: "1.003 AU (384,400 km from Earth)",
+        description: "Earth's only natural satellite, influencing tides and inspiring countless stories.",
+        fact: "The Moon is moving away from Earth at 3.8 cm per year!"
+    },
+    {
         name: "Earth",
         emoji: "🌍",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7WbjQgURKedRu4BK9LOKavfFhconQy3TTNX8ue_4NQ&s=10",
@@ -58,12 +66,20 @@ const planets = [
         fact: "Earth is the only planet not named after a Greek or Roman god!"
     },
     {
-        name: "Moon",
-        emoji: "🌕",
-        image: "https://static.vecteezy.com/system/resources/thumbnails/017/785/725/small/full-moon-isolated-on-transparent-background-png.png",
-        distance: "1.003 AU (384,400 km from Earth)",
-        description: "Earth's only natural satellite, influencing tides and inspiring countless stories.",
-        fact: "The Moon is moving away from Earth at 3.8 cm per year!"
+        name: "Mercury",
+        emoji: "🟤",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7StsF9yeNkC2TrJxoyKWY-dqdy5OA-d8Z89T1DIxBSA&s=10",
+        distance: "0.39 AU (57.9 million km)",
+        description: "The smallest and closest planet to the Sun, Mercury zips through its orbit faster than any other planet in the solar system.",
+        fact: "A single day on Mercury lasts about 176 Earth days, making its day longer than its year!"
+    },
+    {
+        name: "Venus",
+        emoji: "🟡",
+        image: "https://ichef.bbci.co.uk/news/480/cpsprodpb/178A8/production/_106142469_mediaitem106142468.jpg.webp",
+        distance: "0.72 AU (108.2 million km)",
+        description: "Often called Earth's twin due to its similar size, Venus is the hottest planet in the Solar System because of its thick carbon dioxide atmosphere.",
+        fact: "Venus rotates backwards, meaning the Sun rises in the west and sets in the east!"
     },
     {
         name: "Mars",
@@ -83,7 +99,7 @@ const planets = [
     },
     {
         name: "Jupiter",
-        emoji: "♃",
+        emoji: "🟠",
         image: "https://static.vecteezy.com/system/resources/thumbnails/021/877/519/small/jupiter-on-a-transparent-background-png.png",
         distance: "5.203 AU (778.5 million km)",
         description: "The largest planet in our Solar System, with a massive storm called the Great Red Spot.",
@@ -123,7 +139,32 @@ const spaceFacts = [
     "Jupiter's Great Red Spot is a storm that's been raging for 350 years!",
     "Venus is the hottest planet in our Solar System at 465°C!",
     "There are approximately 2 trillion galaxies in the observable universe!",
-    "The night sky is dark because the Universe has a finite age!"
+    "The night sky is dark because the Universe has a finite age!",
+    "The footprints left by Apollo astronauts on the Moon could remain there for millions of years because there is no wind or rain to erase them.",
+    "Olympus Mons on Mars is the tallest volcano in the Solar System, standing about 22 kilometers high.",
+    "Mercury has no atmosphere to trap heat, causing temperatures to swing from 430°C during the day to -180°C at night.",
+    "Uranus rotates on its side, making its seasons last about 21 Earth years each.",
+    "Neptune has the fastest winds in the Solar System, reaching speeds of over 2,100 km/h.",
+    "The International Space Station travels around Earth at approximately 28,000 km/h.",
+    "The Milky Way galaxy is estimated to contain over 100 billion stars.",
+    "Our Solar System takes about 225–250 million years to complete one orbit around the center of the Milky Way.",
+    "The largest known asteroid, Ceres, is officially classified as a dwarf planet.",
+    "A teaspoon of material from a white dwarf star would weigh several tons on Earth.",
+    "The largest moon in the Solar System is Ganymede, which is even bigger than the planet Mercury.",
+    "Jupiter's moon Europa is believed to hide a vast ocean beneath its icy surface.",
+    "Saturn has over 140 confirmed moons, making it one of the most moon-rich planets in the Solar System.",
+    "The Sun is about 4.6 billion years old and is roughly halfway through its lifetime.",
+    "If you could fly a plane to the Moon, the journey would take nearly 20 days without stopping.",
+    "Comets develop glowing tails only when they approach the Sun and their ice begins to vaporize.",
+    "The first human in space was Yuri Gagarin, who orbited Earth in 1961.",
+    "The first humans to walk on the Moon were Neil Armstrong and Buzz Aldrin during the Apollo 11 mission in 1969.",
+    "Every atom of gold found on Earth was created during powerful cosmic events such as neutron star collisions.",
+    "There are rogue planets drifting through space that do not orbit any star.",
+    "Did you know? Jupiter's magnetic field is nearly 20,000 times stronger than Earth's.",
+    "Did you know? A sunset on Mars appears blue instead of the orange-red sunsets we see on Earth.",
+    "Did you know? Neptune was the first planet discovered using mathematical predictions rather than direct observation.",
+    "Did you know? Titan, Saturn's largest moon, has rivers and lakes filled with liquid methane instead of water.",
+    "Did you know? A year on Neptune lasts about 165 Earth years."
 ];
 
 // ===== Initialize Planet Cards =====
